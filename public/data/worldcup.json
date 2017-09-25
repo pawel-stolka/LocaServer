@@ -1,0 +1,553 @@
+﻿{
+    "teams": [
+        {
+            "group": "A",
+            "country": "France",
+            "wins": 5,
+            "remises": 2,
+            "losts": 1,
+            "goals": 15,
+            "lostGoals": 5,
+            "points": 17
+        },
+        {
+            "group": "A",
+            "country": "Sweden",
+            "wins": 5,
+            "remises": 1,
+            "losts": 2,
+            "goals": 18,
+            "lostGoals": 7,
+            "points": 16
+        },
+        {
+            "group": "A",
+            "country": "Holland",
+            "wins": 4,
+            "remises": 1,
+            "losts": 3,
+            "goals": 16,
+            "lostGoals": 11,
+            "points": 13
+        },
+        {
+            "group": "A",
+            "country": "Bulgaria",
+            "wins": 4,
+            "remises": 0,
+            "losts": 4,
+            "goals": 13,
+            "lostGoals": 7,
+            "points": 12
+        },
+        {
+            "group": "A",
+            "country": "Luxemburg",
+            "wins": 1,
+            "remises": 2,
+            "losts": 5,
+            "goals": 7,
+            "lostGoals": 17,
+            "points": 5
+        },
+        {
+            "group": "A",
+            "country": "Belarus",
+            "wins": 1,
+            "remises": 2,
+            "losts": 5,
+            "goals": 4,
+            "lostGoals": 16,
+            "points": 5
+        },
+
+
+        {
+            "group": "B",
+            "country": "Switzerland",
+            "wins": 8,
+            "remises": 0,
+            "losts": 0,
+            "goals": 18,
+            "lostGoals": 3,
+            "points": 24
+        },
+        {
+            "group": "B",
+            "country": "Portugal",
+            "wins": 7,
+            "remises": 0,
+            "losts": 1,
+            "goals": 28,
+            "lostGoals": 4,
+            "points": 21
+        },
+        {
+            "group": "B",
+            "country": "Hungary",
+            "wins": 3,
+            "remises": 1,
+            "losts": 4,
+            "goals": 11,
+            "lostGoals": 9,
+            "points": 10
+        },
+        {
+            "group": "B",
+            "country": "Faroe Islands",
+            "wins": 2,
+            "remises": 2,
+            "losts": 4,
+            "goals": 4,
+            "lostGoals": 15,
+            "points": 8
+        },
+        {
+            "group": "B",
+            "country": "Andora",
+            "wins": 1,
+            "remises": 1,
+            "losts": 6,
+            "goals": 2,
+            "lostGoals": 17,
+            "points": 4
+        },
+        {
+            "group": "B",
+            "country": "Latvia",
+            "wins": 1,
+            "remises": 0,
+            "losts": 7,
+            "goals": 3,
+            "lostGoals": 18,
+            "points": 3
+        },
+
+        {
+            "group": "C",
+            "country": "Germany",
+            "wins": 8,
+            "remises": 0,
+            "losts": 0,
+            "goals": 35,
+            "lostGoals": 2,
+            "points": 24
+        },
+        {
+            "group": "C",
+            "country": "Northern Irland",
+            "wins": 6,
+            "remises": 1,
+            "losts": 1,
+            "goals": 16,
+            "lostGoals": 2,
+            "points": 19
+        },
+        {
+            "group": "C",
+            "country": "Azerbaijan",
+            "wins": 3,
+            "remises": 1,
+            "losts": 4,
+            "goals": 8,
+            "lostGoals": 12,
+            "points": 10
+        },
+        {
+            "group": "C",
+            "country": "Czech Republic",
+            "wins": 2,
+            "remises": 3,
+            "losts": 3,
+            "goals": 10,
+            "lostGoals": 9,
+            "points": 9
+        },
+        {
+            "group": "C",
+            "country": "Norway",
+            "wins": 2,
+            "remises": 1,
+            "losts": 5,
+            "goals": 8,
+            "lostGoals": 16,
+            "points": 7
+        },
+        {
+            "group": "C",
+            "country": "San Marino",
+            "wins": 0,
+            "remises": 0,
+            "losts": 8,
+            "goals": 2,
+            "lostGoals": 38,
+            "points": 0
+        },
+
+        {
+            "group": "D",
+            "country": "Serbia",
+            "wins": 5,
+            "remises": 3,
+            "losts": 0,
+            "goals": 17,
+            "lostGoals": 7,
+            "points": 18
+        },
+        {
+            "group": "D",
+            "country": "Wales",
+            "wins": 3,
+            "remises": 5,
+            "losts": 0,
+            "goals": 11,
+            "lostGoals": 5,
+            "points": 14
+        },
+        {
+            "group": "D",
+            "country": "Irland",
+            "wins": 3,
+            "remises": 4,
+            "losts": 1,
+            "goals": 9,
+            "lostGoals": 6,
+            "points": 13
+        },
+        {
+            "group": "D",
+            "country": "Austria",
+            "wins": 2,
+            "remises": 3,
+            "losts": 3,
+            "goals": 10,
+            "lostGoals": 10,
+            "points": 9
+        },
+        {
+            "group": "D",
+            "country": "Georgia",
+            "wins": 0,
+            "remises": 5,
+            "losts": 3,
+            "goals": 8,
+            "lostGoals": 12,
+            "points": 5
+        },
+        {
+            "group": "D",
+            "country": "Moldova",
+            "wins": 0,
+            "remises": 2,
+            "losts": 6,
+            "goals": 4,
+            "lostGoals": 19,
+            "points": 2
+        },
+
+        {
+            "group": "E",
+            "country": "Polska",
+            "wins": 6,
+            "remises": 1,
+            "losts": 1,
+            "goals": 18,
+            "lostGoals": 11,
+            "points": 19
+        },
+        {
+            "group": "E",
+            "country": "Montenegro",
+            "wins": 5,
+            "remises": 1,
+            "losts": 2,
+            "goals": 18,
+            "lostGoals": 7,
+            "points": 16
+        },
+        {
+            "group": "E",
+            "country": "Denmark",
+            "wins": 5,
+            "remises": 1,
+            "losts": 2,
+            "goals": 18,
+            "lostGoals": 7,
+            "points": 16
+        },
+        {
+            "group": "E",
+            "country": "Romania",
+            "wins": 2,
+            "remises": 3,
+            "losts": 3,
+            "goals": 8,
+            "lostGoals": 8,
+            "points": 9
+        },
+        {
+            "group": "E",
+            "country": "Armenia",
+            "wins": 2,
+            "remises": 0,
+            "losts": 6,
+            "goals": 8,
+            "lostGoals": 19,
+            "points": 6
+        },
+        {
+            "group": "E",
+            "country": "Kazachstan",
+            "wins": 0,
+            "remises": 2,
+            "losts": 6,
+            "goals": 4,
+            "lostGoals": 22,
+            "points": 2
+        },
+
+        {
+            "group": "F",
+            "country": "England",
+            "wins": 6,
+            "remises": 2,
+            "losts": 0,
+            "goals": 16,
+            "lostGoals": 3,
+            "points": 20
+        },
+        {
+            "group": "F",
+            "country": "Slovakia",
+            "wins": 5,
+            "remises": 0,
+            "losts": 3,
+            "goals": 14,
+            "lostGoals": 6,
+            "points": 15
+        },
+        {
+            "group": "F",
+            "country": "Slovenia",
+            "wins": 4,
+            "remises": 2,
+            "losts": 2,
+            "goals": 10,
+            "lostGoals": 4,
+            "points": 14
+        },
+        {
+            "group": "F",
+            "country": "Scotland",
+            "wins": 4,
+            "remises": 2,
+            "losts": 2,
+            "goals": 14,
+            "lostGoals": 10,
+            "points": 14
+        },
+        {
+            "group": "F",
+            "country": "Lithuenia",
+            "wins": 1,
+            "remises": 2,
+            "losts": 5,
+            "goals": 6,
+            "lostGoals": 18,
+            "points": 5
+        },
+        {
+            "group": "F",
+            "country": "Malta",
+            "wins": 0,
+            "remises": 0,
+            "losts": 8,
+            "goals": 2,
+            "lostGoals": 21,
+            "points": 0
+        },
+
+        {
+            "group": "G",
+            "country": "España",
+            "wins": 6,
+            "remises": 2,
+            "losts": 0,
+            "goals": 16,
+            "lostGoals": 3,
+            "points": 20
+        },
+        {
+            "group": "G",
+            "country": "Italia",
+            "wins": 5,
+            "remises": 0,
+            "losts": 3,
+            "goals": 14,
+            "lostGoals": 6,
+            "points": 15
+        },
+        {
+            "group": "G",
+            "country": "Albania",
+            "wins": 4,
+            "remises": 2,
+            "losts": 2,
+            "goals": 10,
+            "lostGoals": 4,
+            "points": 14
+        },
+        {
+            "group": "G",
+            "country": "Izrael",
+            "wins": 4,
+            "remises": 2,
+            "losts": 2,
+            "goals": 14,
+            "lostGoals": 10,
+            "points": 14
+        },
+        {
+            "group": "G",
+            "country": "Macedonia",
+            "wins": 1,
+            "remises": 2,
+            "losts": 5,
+            "goals": 6,
+            "lostGoals": 18,
+            "points": 5
+        },
+        {
+            "group": "G",
+            "country": "Liechtenstein",
+            "wins": 0,
+            "remises": 0,
+            "losts": 8,
+            "goals": 2,
+            "lostGoals": 21,
+            "points": 0
+        },
+
+        {
+            "group": "H",
+            "country": "Belgium",
+            "wins": 7,
+            "remises": 1,
+            "losts": 0,
+            "goals": 35,
+            "lostGoals": 3,
+            "points": 22
+        },
+        {
+            "group": "H",
+            "country": "Bosnia & Herzegovina",
+            "wins": 4,
+            "remises": 2,
+            "losts": 2,
+            "goals": 19,
+            "lostGoals": 8,
+            "points": 14
+        },
+        {
+            "group": "H",
+            "country": "Greece",
+            "wins": 3,
+            "remises": 4,
+            "losts": 1,
+            "goals": 8,
+            "lostGoals": 12,
+            "points": 10
+        },
+        {
+            "group": "H",
+            "country": "Cyprus",
+            "wins": 3,
+            "remises": 1,
+            "losts": 4,
+            "goals": 8,
+            "lostGoals": 12,
+            "points": 10
+        },
+        {
+            "group": "H",
+            "country": "Estonia",
+            "wins": 2,
+            "remises": 2,
+            "losts": 4,
+            "goals": 6,
+            "lostGoals": 17,
+            "points": 8
+        },
+        {
+            "group": "H",
+            "country": "Gibraltar",
+            "wins": 0,
+            "remises": 0,
+            "losts": 8,
+            "goals": 3,
+            "lostGoals": 37,
+            "points": 0
+        },
+
+        {
+            "group": "I",
+            "country": "Croatia",
+            "wins": 5,
+            "remises": 1,
+            "losts": 2,
+            "goals": 12,
+            "lostGoals": 3,
+            "points": 16
+        },
+        {
+            "group": "I",
+            "country": "Iceland",
+            "wins": 5,
+            "remises": 1,
+            "losts": 2,
+            "goals": 11,
+            "lostGoals": 7,
+            "points": 16
+        },
+        {
+            "group": "I",
+            "country": "Turkey",
+            "wins": 4,
+            "remises": 2,
+            "losts": 2,
+            "goals": 12,
+            "lostGoals": 8,
+            "points": 14
+        },
+        {
+            "group": "I",
+            "country": "Ukraine",
+            "wins": 4,
+            "remises": 2,
+            "losts": 2,
+            "goals": 11,
+            "lostGoals": 7,
+            "points": 14
+        },
+        {
+            "group": "I",
+            "country": "Finland",
+            "wins": 2,
+            "remises": 1,
+            "losts": 5,
+            "goals": 6,
+            "lostGoals": 10,
+            "points": 7
+        },
+        {
+            "group": "I",
+            "country": "Kosovo",
+            "wins": 0,
+            "remises": 1,
+            "losts": 7,
+            "goals": 3,
+            "lostGoals": 20,
+            "points": 1
+        }
+    ]
+}

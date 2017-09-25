@@ -1,0 +1,24 @@
+﻿{
+    "teams": [
+        {
+            "group": "A",
+            "country": "France",
+            "wins": 5,
+            "remises": 2,
+            "losts": 1,
+            "goals": 15,
+            "lostGoals": 5,
+            "points": 17
+        },
+        {
+            "group": "A",
+            "country": "Sweden",
+            "wins": 5,
+            "remises": 1,
+            "losts": 2,
+            "goals": 18,
+            "lostGoals": 7,
+            "points": 16
+        }
+    ]
+}
