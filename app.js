@@ -23,16 +23,11 @@ app.get('/getCup', function(req, res) {
     // res.send(JSON.stringify(obj));
 })
 
-app.get('/txt', function(req, res) {
 
-    res.header("Access-Control-Allow-Origin", "*");
-    // res.setHeader('Content-Type', 'application/json');
 
-    var obj = fs.readFileSync('public/data/txt.txt');
-    res.send(obj);
-})
+
 
 app.listen(port, function(err) {
-    console.log('running server on port ' + port);
+    console.log('running app server on port ' + port);
     console.log('CORS-enabled web server listening on port  ' + port);
 });
